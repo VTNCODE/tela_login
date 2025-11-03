@@ -44,5 +44,6 @@ section#login > div#content {
     background-color: white;
     padding: 10px;
     text-align: left;
-
+    transition: width .3s, height .3s;
+    transition-timing-function: ease;
 }
