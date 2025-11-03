@@ -30,12 +30,20 @@
             width: 950px;
         }
         section#login > div#img {
-            float: left;
+            float: right;
             width: 50%;
             height: 100%;
         }
         section#login > div#content {
-            float: right;
+            float: left;
             width: 50%;
         }
+        div#content  > h1{
+            text-align: center;
+            font-size: 2em;
+        }
+        div#content > p {
+            font-size: 1.2em;
+        }
+
     }
