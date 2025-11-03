@@ -1,0 +1,21 @@
+@charset "UTF-8";
+@media screen and (min-width: 768px) {
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: linear-gradient(
+        to bottom,
+        #5A3882,
+        #525989,
+        #4C7C93,
+        #498D93
+    );
+}
+main {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+}
