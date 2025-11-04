@@ -15,6 +15,9 @@
         width: 80vw;
 
     }
+    #content > p{
+        font-size: 1.2em;
+    }
     section#login > div#img {
         float: left;
         width: 30%;
@@ -24,6 +27,9 @@
     section#login > div#content {
         float: right;
         width: 70%;
+    }
+    form {
+        margin-top: 80px;
     }
 
 }
